@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://github.com/LordMathis/hugo-theme-nightfall/categories/</loc>
+    <loc>https://ramnikash.github.io/categories/</loc>
   </url><url>
-    <loc>https://github.com/LordMathis/hugo-theme-nightfall/</loc>
+    <loc>https://ramnikash.github.io/</loc>
   </url><url>
-    <loc>https://github.com/LordMathis/hugo-theme-nightfall/tags/</loc>
+    <loc>https://ramnikash.github.io/tags/</loc>
   </url>
 </urlset>
